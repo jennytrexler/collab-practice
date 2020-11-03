@@ -1,0 +1,24 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar {
+    height: 30px;
+    background-color: yellow;
+}
+
+.left-column {
+    height: 200px;
+    background-color: teal;
+}
+
+.right-column {
+    background-color: violet;
+}   
+
+.column-footer {
+    height: 30px;
+    background-color: thistle;
+}
+
